@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">007_Court_Counter</string>
+    <string name="touchdown">TOUCHDOWN</string>
+    <string name="field_goal">FIELD GOAL</string>
+    <string name="extra_point">EXTRA POINT</string>
+    <string name="two_point_conversion">TWO-POINT CONVERSION</string>
+    <string name="safety">SAFETY</string>
+    <string name="conversion_safety">CONVERSION SAFETY</string>
+    <string name="defensive_conversion">DEFENSIVE CONVERSION</string>
+    <string name="reset">RESET</string>
+    <string name="host">Host</string>
+    <string name="guest">Guest</string>
+</resources>
